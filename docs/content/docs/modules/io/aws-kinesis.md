@@ -184,7 +184,7 @@ Specifies the AWS credentials using an AWS configuration profile, along with the
 
 ```yaml
 awsCredentials:
-  type: basic
+  type: profile
   profileName: profile-name
   profilePath: /path/to/profile/config
 ```
